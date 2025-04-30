@@ -49,7 +49,7 @@ Taskly allows users to manage a list of tasks, each with its own editable state.
 ## Setup & Run
 1. **Clone the repository**
 2. Open `Taskly.xcodeproj` in Xcode 15+
-3. Build and run on iOS Simulator (iOS 18+ recommended)
+3. Build and run on iOS Simulator (iOS 18+)
 
 ---
 
@@ -62,9 +62,4 @@ Taskly allows users to manage a list of tasks, each with its own editable state.
 - [x] Modern TCA architecture, DI, clean code
 - [x] UI with animations and transitions, inspired by [Todo app concept on Dribbble](https://dribbble.com/shots/3837693-Todo-app-concept)
 
----
-
-## Notes
-- No real backend or persistence: all data is stored locally in memory or via FileClient.
-- No UI polish: focus is on business logic and architecture, but UI includes meaningful animations and transitions.
 
