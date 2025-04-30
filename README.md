@@ -1,16 +1,15 @@
 # Taskly
 
-<p align="center">
-  <img src="./Taskly/Gif/Taskly.gif" alt="Taskly Demo" width="320" />
-  <br/>
-  <em>✨ A modern Task Manager with SwiftUI & TCA animations ✨</em>
-</p>
-
 A minimal Task Manager app built with [The Composable Architecture (TCA)](https://github.com/pointfreeco/swift-composable-architecture) and SwiftUI.
 
 ## Overview
 Taskly allows users to manage a list of tasks, each with its own editable state. The project demonstrates modern TCA patterns, parent-child feature composition, dependency injection, optimistic UI, and integration of analytics and sync clients.
 
+
+<p align="left">
+  <img src="./Taskly/Gif/Taskly.gif" alt="Taskly Demo" width="220" />
+  <br/>
+</p>
 ---
 
 ## Features
