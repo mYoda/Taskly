@@ -177,7 +177,7 @@ extension TaskRow {
 		/// .gray.opacity(0.2)
 		static let borderColor: Color = .gray.opacity(0.2)
 		/// .white
-		static let backgroundColor: Color = .white
+		static let backgroundColor: Color = .white.opacity(0.1)
 	}
 }
 
