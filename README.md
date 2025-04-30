@@ -67,5 +67,4 @@ Taskly allows users to manage a list of tasks, each with its own editable state.
 ## Notes
 - No real backend or persistence: all data is stored locally in memory or via FileClient.
 - No UI polish: focus is on business logic and architecture, but UI includes meaningful animations and transitions.
-- All code and comments are in English.
 
